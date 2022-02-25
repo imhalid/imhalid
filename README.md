@@ -6,7 +6,7 @@
 
 <p align="center">  
   Hi, I'm <b>Halit</b>, I'm Front-End Developer. <br/>
-  I love programming, watching Anime, listening to chill music. <br/>
+  I love programming, watching anime, listening to chill music. <br/>
   Feel free to contact me! 😉 <br/>
 
 </p>
