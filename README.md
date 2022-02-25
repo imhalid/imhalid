@@ -7,7 +7,9 @@
 <p align="center">  
   Hi, I'm <b>Halit</b>, I'm Front-End Developer. <br/>
   I love programming, watching Anime, listening to chill music. <br/>
-  Feel free to contact me! 😉
+  Feel free to contact me! 😉 <br/>
+  <a href="https://open.spotify.com/playlist/3IqWYnuUx8KWFdzlpKq8bc"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
+  
 </p>
 
 <h3 align="center"><b>--- Contact ---</b></h3>
