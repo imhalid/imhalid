@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-![](https://komarev.com/ghpvc/?username=imhalid&color=green)
+![](https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors)
 
 <!--
 **imhalid/imhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
