@@ -8,8 +8,7 @@
   Hi, I'm <b>Halit</b>, I'm Front-End Developer. <br/>
   I love programming, watching Anime, listening to chill music. <br/>
   Feel free to contact me! 😉 <br/>
-  <a href="https://open.spotify.com/playlist/3IqWYnuUx8KWFdzlpKq8bc"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
-  
+
 </p>
 
 <h3 align="center"><b>--- Contact ---</b></h3>
@@ -17,6 +16,8 @@
 <a href="mailto:imhalid@icloud.com"><img src="https://img.shields.io/badge/Mail-3693F3?style=flat&logo=Icloud&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/halit-islam-içli-aab922154/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/isuraka/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp
+    <a href="https://open.spotify.com/playlist/3IqWYnuUx8KWFdzlpKq8bc"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
+  
 </p>
 
 <h3 align="center"><b>--- Skills ---</b></h3>
