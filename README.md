@@ -28,11 +28,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
-  
-  #31A8FF
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors)
+
+<!-- ![](https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors) -->
+
 
 <!--
 **imhalid/imhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
