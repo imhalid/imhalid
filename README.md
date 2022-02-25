@@ -1,5 +1,7 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/98MYwXK/july.png" alt="july" width="128px" border="0"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors)
