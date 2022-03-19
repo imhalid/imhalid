@@ -11,7 +11,7 @@
 
 </p>
 
-<h3 align="center"><b>--- Contact ---</b></h3>
+<h3 align="center"><b>`Contact`</b></h3>
 <p align="center">
 <a href="mailto:imhalid@icloud.com"><img src="https://img.shields.io/badge/Mail-3693F3?style=flat&logo=Icloud&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/imhalid001/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp
@@ -20,7 +20,7 @@
   
 </p>
 
-<h3 align="center"><b>--- Skills ---</b></h3>
+<h3 align="center"><b>`Skills`</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> &nbsp
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> &nbsp
-  <img style="opacity:0.0; display: block;" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
   <img width="0" height="0" src="https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors"/>
 </p>
 
