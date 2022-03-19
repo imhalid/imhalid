@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
-  <img src="https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors"/>
+  <img style="opacity:0.0; display: block;" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
+  <img width="0" height="0" src="https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors"/>
 </p>
 
 
