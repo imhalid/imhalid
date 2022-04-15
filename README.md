@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=welcome%20to%20my%20page&fontSize=80&animation=fadeIn&fontAlignY=32&desc=%22Well%20done%20is%20better%20than%20well%20said.%22&descAlignY=55&descAlign=76"><br/>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/98MYwXK/july.png" alt="july" width="128px" border="0"></a>
 </p>
 
