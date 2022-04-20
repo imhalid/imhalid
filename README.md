@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">  
-  Hi, I'm <b>Halit</b>, I'm Front-End Developer. <br/>
+  Hi, I'm <b>Halit</b>, Front-End Developer. <br/>
   I love programming, watching anime, listening to chill music. <br/>
   Feel free to contact me! 😉 <br/>
 
