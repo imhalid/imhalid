@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> &nbsp
   <img width="0" height="0" src="https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- ![](https://komarev.com/ghpvc/?username=imhalid&color=orange&label=visitors) -->
 <!--
 **imhalid/imhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
