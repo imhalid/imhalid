@@ -1,6 +1,6 @@
-Hello :) 
 
-<details>
+
+Hello :)  <details>
 
 <summary>For Funny</summary>
 
