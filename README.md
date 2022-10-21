@@ -1,6 +1,10 @@
 
 
-Hello :)  <details>
+Hello :) 
+
+I love making apps that make life easier. I want to combine my design experience with programming and take part in larger projects in this field.
+
+<details>
 
 <summary>For Funny</summary>
 
