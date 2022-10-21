@@ -14,13 +14,13 @@ Hello :)  <details>
 
 **🐱 My GitHub Data** 
 
-> 🏆 580 Contributions in the Year 2022
+> 🏆 581 Contributions in the Year 2022
  > 
 > 📦 77.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -53,11 +53,11 @@ Sunday       79 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-JavaScript               29 mins             ███████████████████░░░░░░   76.77% 
-CSS                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   23.23%
+JavaScript               26 mins             ████████████████████████░   97.7% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
 🐱‍💻 Projects: 
-awaseru                  38 mins             █████████████████████████   100.0%
+awaseru                  27 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +74,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2022 19:09:12 UTC
+ Last Updated on 21/10/2022 19:01:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
