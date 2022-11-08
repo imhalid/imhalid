@@ -1,3 +1,13 @@
+```mermaid
+stateDiagram-v2
+
+alive(); --> eat();
+eat(); --> code();
+code(); --> sleep();
+sleep(); --> alive();
+
+```
+
 
 
 Hello :) 
