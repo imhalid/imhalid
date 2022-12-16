@@ -1,5 +1,11 @@
 
-<img width="100%" style="background-size: cover; object-fit:cover;" src="https://raw.githubusercontent.com/imhalid/imhalid/0342828fa54aa1d83ed35cfb9c382c0fe311f3b7/svg2.svg" >
+
+
+<picture>
+    <source media="(min-width: 650px)" srcset="https://raw.githubusercontent.com/imhalid/imhalid/0342828fa54aa1d83ed35cfb9c382c0fe311f3b7/svg2.svg">
+    <source media="(min-width: 465px)" srcset="https://raw.githubusercontent.com/imhalid/imhalid/0342828fa54aa1d83ed35cfb9c382c0fe311f3b7/svg2.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/imhalid/imhalid/0342828fa54aa1d83ed35cfb9c382c0fe311f3b7/svg2.svg" >
+</picture>
 
 # Hi, I'm Halid! 
 Frontend enthusiast.
