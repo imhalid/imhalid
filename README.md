@@ -1,5 +1,5 @@
 
-<img width="100%" style="background-size: cover; object-fit:cover;" src="https://raw.githubusercontent.com/imhalid/imhalid/6272bd0646544f4867c5f8b09a51d7e7ab378583/svg.svg" >
+<img width="100%" style="background-size: cover; object-fit:cover;" src="https://raw.githubusercontent.com/imhalid/imhalid/0342828fa54aa1d83ed35cfb9c382c0fe311f3b7/svg2.svg" >
 
 # Hi, I'm Halid! 
 Frontend enthusiast.
