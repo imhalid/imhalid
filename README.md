@@ -1,8 +1,3 @@
-
-
-
-
-
 # Hi, I'm Halid! 
 Frontend enthusiast.
 
@@ -13,3 +8,9 @@ Frontend enthusiast.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=imhalid)
 [![](https://img.shields.io/badge/-open%20to%20work-gray?labelColor=green)](https://www.linkedin.com/in/imhalid001/)
+
+
+# TODO
+- [ ] [Electron.js](https://www.electronjs.org/)
+- [ ] HTML5 Canvas
+- [ ] PWA
