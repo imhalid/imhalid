@@ -11,6 +11,6 @@ Frontend enthusiast.
 
 
 # TODO
-- [ ] [Electron.js](https://www.electronjs.org/)
+- [ ] [Electron.js](https://www.electronjs.org/) or [Tauri](https://tauri.app/)
 - [ ] HTML5 Canvas
 - [ ] PWA
