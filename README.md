@@ -7,9 +7,3 @@ Frontend enthusiast.
 ![Profile View Counter](https://komarev.com/ghpvc/?username=imhalid)
 [![](https://img.shields.io/github/followers/imhalid?style=social)](https://www.github.com/imhalid)
 <!-- [![](https://img.shields.io/badge/-open%20to%20work-gray?labelColor=green)](https://www.linkedin.com/in/imhalid001/) -->
-
-
-# TODO
-- [ ] [Electron.js](https://www.electronjs.org/) or [Tauri](https://tauri.app/)
-- [ ] HTML5 Canvas
-- [ ] PWA
