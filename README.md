@@ -1,6 +1,6 @@
 # Hi, I'm Halid! 
 Frontend enthusiast.
-I’m currently learning **Vue, Vite, WebGL, Three.js, Blender**
+I’m currently learning **Vite, WebGL, Three.js, Blender**
 
 [![](https://img.shields.io/twitter/follow/halidislm?style=social)](https://www.twitter.com/halidislm)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=imhalid)
