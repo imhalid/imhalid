@@ -1,6 +1,6 @@
 # Hi, I'm Halid! 
-Frontend enthusiast.
-I’m currently learning **WebGL, Three.js, Blender**
+Design enthusiast.
+I'm learning so many things right now.
 
 [![](https://img.shields.io/twitter/follow/halidislm?style=social)](https://www.twitter.com/halidislm)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=imhalid)
